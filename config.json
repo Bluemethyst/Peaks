@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "suggestions_forum_id": 1221696367261646918,
+        "verification_code_channel": 1156493862236332086,
+        "verification_channel": 1156493862236332086,
+        "verified_role": 1224494944153243699,
+        "admin_role": 1089570715151384666,
+        "server_ip": "themtn.xyz",
+        "server_data_api": "https://api.mcsrvstat.us/3/",
+        "modpack_api": "https://curserinth-api.kuylar.dev/v2/project/modpack__",
+        "database_path": "data.sqlite"
+    }
+}
